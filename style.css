@@ -1,0 +1,46 @@
+html {
+  height: 100%;
+  width: 100%;
+}
+#sidebar {
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 10%;
+  height: 100vh;
+  background-color: #000000;
+}
+body9 {
+  position: relative;
+  left: 170px;
+  font-family: Arial;
+  font-weight: bold;
+}
+body9 h2 {
+  position: relative;
+  right: 2px;
+  bottom: 2px;
+  font-family: Arial;
+  font-weight: bold;
+  text-decoration: underline;
+}
+body10 {
+  position: relative;
+  left: 800px;
+  width: 100px;
+  height: 100px;
+}
+  body11 {
+  position: relative; 
+  left: 10%;
+    bottom: 10px;
+  font-family: Arial;
+  font-weight: bold;
+}
+body11 h2 {
+  position: relative;
+  right: 2px;
+  bottom: 2px;
+  font-family: Arial;
+  font-weight: bold;
+  text-decoration: underline;
